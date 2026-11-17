@@ -48,7 +48,7 @@ Our committed team is ready to help you plan and execute a well-organized event 
 
 ## Pages
 
-- [Home (English)](https://christopherbougadakis.github.io/pearl-paros/)
-- [Αρχική (Ελληνικά)](https://christopherbougadakis.github.io/pearl-paros/el/)
-- [Cancelation policy](https://christopherbougadakis.github.io/pearl-paros/cancelation/)
-- [Πολιτική ακύρωσης](https://christopherbougadakis.github.io/pearl-paros/el/cancelation/)
+- [Home (English)](https://pearl-paros.gr/)
+- [Αρχική (Ελληνικά)](https://pearl-paros.gr/el/)
+- [Cancelation policy](https://pearl-paros.gr/cancelation/)
+- [Πολιτική ακύρωσης](https://pearl-paros.gr/el/cancelation/)
